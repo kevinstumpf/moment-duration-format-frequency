@@ -1,6 +1,6 @@
 {
   "name": "moment-duration-format-frequency",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Formats moment duration as frequency to human readable string",
   "main": "index.js",
   "scripts": {

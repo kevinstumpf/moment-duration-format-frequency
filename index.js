@@ -1,1 +1,1 @@
-module.exports = require('./lib/frequencyFormatter');
+module.exports = require('./lib/momentDurationFormatFrequency');

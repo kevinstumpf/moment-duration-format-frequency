@@ -1,7 +1,7 @@
 {
   "name": "moment-duration-format-frequency",
   "version": "1.0.0",
-  "description": "Formats time interval to human readable string",
+  "description": "Formats moment duration as frequency to human readable string",
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
@@ -14,7 +14,9 @@
     "frequency",
     "format",
     "interval",
-    "string"
+    "string",
+    "moment",
+    "duration"
   ],
   "author": "Kevin Stumpf",
   "license": "ISC",

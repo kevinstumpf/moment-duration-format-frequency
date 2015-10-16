@@ -1,0 +1,33 @@
+{
+  "name": "moment-duration-format-frequency",
+  "version": "1.0.0",
+  "description": "Formats time interval to human readable string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DispatcherInc/moment-duration-format-frequency.git"
+  },
+  "keywords": [
+    "frequency",
+    "format",
+    "interval",
+    "string"
+  ],
+  "author": "Kevin Stumpf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DispatcherInc/moment-duration-format-frequency/issues"
+  },
+  "homepage": "https://github.com/DispatcherInc/moment-duration-format-frequency#readme",
+  "devDependencies": {
+    "chai": "^3.3.0"
+  },
+  "dependencies": {
+    "is-natural-number": "^2.0.0",
+    "lodash": "^3.10.1",
+    "moment": ">=1.4.0"
+  }
+}
